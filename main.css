@@ -16,8 +16,7 @@ body {
 }
 .well {
   opacity: 0.7;
-  background-color: black;
-  color: white;
+  color: black;
 }
 h1 {
   font-family: 'Righteous', cursive;
