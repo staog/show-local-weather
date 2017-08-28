@@ -14,7 +14,7 @@ if (navigator.geolocation) {
       latitude = currentPosition.coords.latitude;
       longitude = currentPosition.coords.longitude;
 
-      $.getJSON('http://api.openweathermap.org/data/2.5/weather?lat=' + latitude + '&lon=' + longitude + '&APPID=c4af27db5c05c9eb530a63fa8c4806f6', function (data) {
+      $.getJSON('https://api.openweathermap.org/data/2.5/weather?lat=' + latitude + '&lon=' + longitude + '&APPID=c4af27db5c05c9eb530a63fa8c4806f6', function (data) {
         var rawJson = JSON.stringify(data);
         var json = JSON.parse(rawJson);
         console.log(json);
