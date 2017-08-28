@@ -12,7 +12,7 @@ body {
   width: 100vw;
   height: 100vh;
   z-index: -1;
-  background-size: auto;
+  overflow: scroll;
 }
 .well {
   opacity: 0.7;
