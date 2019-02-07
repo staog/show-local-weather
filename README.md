@@ -1,5 +1,9 @@
 # show-local-weather
 
-Show the Local Weather from Free Code Camp
+Show the Local Weather project from freeCodeCamp.
 
-[See the weather in your town](https://staog.github.io/show-local-weather/)
+=========================================================
+
+[DEMO](https://staog.github.io/show-local-weather/)
+
+=========================================================
